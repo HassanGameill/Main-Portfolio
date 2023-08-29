@@ -216,6 +216,7 @@ body.dark-theme {
   padding-inline: 1.5rem;
   border-radius: 3rem;
   transition: background .4s; 
+  padding: 12px;
    /* For Dark mode animation */
 }
 .nav--logo,
