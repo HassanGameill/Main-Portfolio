@@ -455,6 +455,12 @@ body.dark-theme {
   width: 40px;
 }
 
+.skills--blob .white {
+  background-color: white;
+  border-radius: 100%;
+}
+
+
 .skills--name {
   font-size: var(--small-font-size);
   margin-bottom: .25rem;
