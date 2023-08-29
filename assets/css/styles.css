@@ -1294,10 +1294,11 @@ body.dark-theme {
     font-size: 2.5rem;
   }
   .services--border {
-    width: 265px;
+    width: 279px;
     height: 370px;
     border-radius: 9.25rem;
-    bottom: calc(100% + 20%);
+    margin-left: -8px;
+    bottom: calc(100% + 21%);
   }
 
   .projects--container {
